@@ -12,7 +12,7 @@ android.provider.MediaStore.ACTION_IMAGE_CAPTURE<br>Providing Permissions in Man
 <strong>Step 1 : </strong>Provide read , write and using camera permission in the manifest file.
 
 </li>
-<img src="http://armorappz.com/github/manifest.png">
+<img src="http://armorappz.com/github/manifestcamera.png">
 
 <li>
 <strong>Step 2 : </strong>Then Create a activy_main.xml and add a imageview and button to call the camera. When the button is clicked, camera intent will be called and the image is captured.
