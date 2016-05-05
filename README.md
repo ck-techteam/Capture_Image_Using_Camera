@@ -1,6 +1,7 @@
 <article class="markdown-body entry-content" itemprop="text">
 <h1><a id="Camera Capture in Android" class="anchor" href="#ACamera Capture in Android" aria-hidden="true"></a>Camera Capture in Android
 </h1>
+<p>Camera Capture Feature in Android : This project is an overview of the syntax to launch an existing camera application installed on phone.</p>
 
 <p>
 Android camera in our application : You will use MediaStore.ACTION_IMAGE_CAPTURE to launch an existing camera application installed on your phone. Its syntax is given below
